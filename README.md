@@ -1,8 +1,8 @@
 
-# [Lempel-Ziv and Huffman Encoding of Random Symbols](/Project.pdf)
+# [Lempel-Ziv and Huffman Encoding of Random Symbols](/Course_Project.pdf)
 
 ## Description
-- [Project Description](/Project.pdf)
+- [Project Description](/Course_Project.pdf)
   
 ## Languages And Tools:
 
